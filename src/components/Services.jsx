@@ -4,7 +4,7 @@ import Title from "./Title";
 const Services = () => {
   return (
     <section className="section services" id="services">
-      <Title title="our" subtitle="services" />
+      <Title title="our" subtitle=" main services" />
       <div className="section-center services-center">
         {services.map((service) => {
           return (
